@@ -3,7 +3,7 @@ import Counter from './Counter';
 
 class App extends Component {
     constructor(props){
-        super(props);
+        super(props)
     }
 
 
